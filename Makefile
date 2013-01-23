@@ -1,7 +1,7 @@
 CC=gcc
 CFLAGS=-O2 -Wall -Wextra
 
-PROG=colour-man
+PROG=local-which
 PREFIX=/usr/sbin
 SRC=./src
 
